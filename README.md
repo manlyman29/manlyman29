@@ -4,7 +4,7 @@ Full Stack software engineer
 ---------------------------- 
 ![Profile Views](https://komarev.com/ghpvc/?username=manlyman29&color=blue)
 
-I have been learning and working with different programming languages for 16 years now. My career started with Visual Basic, C#, PHP and later I started learning with some JavaScript Frontend Frameworks such as Angular and React for web development. I have also worked for 3 years on Mobile Native languages (Java, Kotlin, Swift) on different projects but eventually I stopped working on them and started working on my Dart/Flutter skills as my main Frontend development language/framework. Nowadays I prefer Node.js for backend and Flutter for Fronted. Flutter has been my go to frontend framework in past 4 years and Node.js for backends of choice for the past 7 years.
+ have been learning and working with different programming languages for 16 years. My career began with Visual Basic, C#, and PHP. Later, I started learning JavaScript frontend frameworks such as Angular and React for web development. I also worked for three years on mobile native languages (Java, Kotlin, and Swift) on various projects, but eventually, I fully switched to Dart/Flutter as my primary frontend development language/framework. Flutter has been my go-to frontend framework for the past four years, and Node.js has been my backend of choice for the past seven years.
 
 
 ### Skills  
@@ -17,5 +17,3 @@ I have been learning and working with different programming languages for 16 yea
 
 <a href="http://www.github.com/manlyman29"><img src="https://github-readme-stats.vercel.app/api?username=manlyman29&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=64748b&icon_color=444e59&bg_color=ffffff&hide_border=true&show_icons=true" alt="manlyman29's GitHub stats" /></a>
 <a href="http://www.github.com/manlyman29"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manlyman29&stroke=64748b&background=ffffff&ring=64748b&fire=64748b&currStreakNum=64748b&currStreakLabel=64748b&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-<a href="http://www.github.com/manlyman29"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=manlyman29&bg_color=ffffff&color=64748b&line=444e59&point=64748b&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/manlyman29" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manlyman29&langs_count=10&title_color=64748b&text_color=64748b&icon_color=444e59&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
